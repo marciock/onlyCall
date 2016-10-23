@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kdezen/Documentos/AndroidStudioProjects/onlyCall/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a25710d19ca06c14f837526d9990c51905b2dff">
+        <dex dex="/home/kdezen/Documentos/AndroidStudioProjects/onlyCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f137fa8334074e5148762e6fd92a4b561938f02/classes.dex" />
+    </item>
+    <item
+        jar="/home/kdezen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/kdezen/Documentos/AndroidStudioProjects/onlyCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_d40e825982037fbd8f66305235cc70ee81d45654/classes.dex" />
+    </item>
+    <item
+        jar="/home/kdezen/Documentos/AndroidStudioProjects/onlyCall/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/kdezen/Documentos/AndroidStudioProjects/onlyCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_a6ed383fcd1959819b7ee05b7d40327272811ddf/classes.dex" />
+    </item>
+    <item
+        jar="/home/kdezen/Documentos/AndroidStudioProjects/onlyCall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/kdezen/Documentos/AndroidStudioProjects/onlyCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_09ac74c0f7a0039f91c1c032c315c8f16d037e40/classes.dex" />
+    </item>
+    <item
+        jar="/home/kdezen/Documentos/AndroidStudioProjects/onlyCall/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4c6c9814429c8e84a599e392f21a9f3f2958893d">
+        <dex dex="/home/kdezen/Documentos/AndroidStudioProjects/onlyCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e95a49d354c22a8c42a7e7af37619c41bf4630a7/classes.dex" />
+    </item>
+    <item
+        jar="/home/kdezen/Documentos/AndroidStudioProjects/onlyCall/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/kdezen/Documentos/AndroidStudioProjects/onlyCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_0424490e3c925a830d1bbd58ff97aedb1fa10087/classes.dex" />
+    </item>
+
+</items>
